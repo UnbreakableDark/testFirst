@@ -1,0 +1,2 @@
+.用Git来管理代码，并提交到GitHub上
+.用GitHub Page 来部署静态的前端代码。
